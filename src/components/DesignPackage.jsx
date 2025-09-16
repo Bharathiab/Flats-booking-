@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./Designpackage.css";
+import "./DesignPackage.css";
 import { Container, Row, Col, Button, Card, Collapse } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import Footer from "./Footer";
